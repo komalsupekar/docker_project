@@ -37,3 +37,6 @@ To start stopped services we have docker-compose start
 To destroy whole infrastructure we have docker-compose down
 
 This was all about my learning in 3 weekends. I would like to thank Mr. Vimal Daga Sir for this great opportunity of learning.
+
+
+Link of the Docker project-https://hub.docker.com/r/komalsupekar/student
